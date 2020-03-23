@@ -10,4 +10,6 @@ This is a sample intro
 
 ## How to contribute
 
-Please comment down below to contribute
+Editing the file
+
+editing the file a second time
