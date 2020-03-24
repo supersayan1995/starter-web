@@ -13,6 +13,7 @@ To learn the working of Git
 ## How to contribute
 
 To contribute, please comment down below
+Feel free to fork and the pull the repo as well
 
 ### Copyright
 
