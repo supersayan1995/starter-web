@@ -8,8 +8,12 @@ This is a sample intro
 
 ## Purpose
 
+To learn the working of Git
+
 ## How to contribute
 
-Editing the file
+To contribute, please comment down below
 
-editing the file a second time
+### Copyright
+
+Abhishek
