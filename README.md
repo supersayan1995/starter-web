@@ -18,4 +18,4 @@ new edit
 
 ### Copyright
 
-Abhishek
+Abhishek. All rights reserved.
